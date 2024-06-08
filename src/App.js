@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h3>Responsive Navbar</h3>
       <Navbar />
-      {/* <main>
+      <main>
         <section id="home">
           <h1>Home</h1>
         </section>
@@ -19,7 +19,7 @@ function App() {
         <section id="contact">
           <h1>Contact</h1>
         </section>
-      </main> */}
+      </main>
     </div>
   );
 }
